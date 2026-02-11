@@ -52,7 +52,7 @@ Pages:
 4. Build Power BI report using Gold tables
 
 ## Repository Structure
-(Show your folder tree)
+---
 
 ## Future Improvements
 - Add incremental refresh
